@@ -1,4 +1,4 @@
-# Distributed AI Model Training on Batch AI 
+# Distributed AI Model Training on Batch AI
 
 ## Scoping Statement
 
@@ -8,11 +8,11 @@ Team 13 - Distributed AI Model Training
 
 ### Participants
 
- 1. Bruno Medina - Lead SE
+ 1. Bruno Medina - Lead SE (Infrastructure, Containers, Linux, Bash, Azure CLI)
  1. Stephanie Marker - SE - Distributed Training with CNTK
  1. Vy Ta - SE - Distributed Training with CNTK
  1. Karol Zak - SE
- 1. Ivan Shaporov - SE
+ 1. Ivan Shaporov - TensorFlow (autoencoders/rnn/conv nets)
  1. Claudia Nadolny - SE
  1. Olga Liahovich - SE & PM
  1. Cheng Bin Tham - SE
@@ -31,5 +31,3 @@ Team 13 - Distributed AI Model Training
 ### Expected Learnings
 
 ## Leverage Plan
-
-###
