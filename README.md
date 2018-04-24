@@ -2,15 +2,19 @@
 
 ## Scoping Statement
 
-### Project Name 
+### Project Name
+
 Team 13 - Distributed AI Model Training
 
 ### Participants
 
 #### SE
+
  1. Bruno Medina - Lead SE
  1. 
+ 
 #### PM
+
  1. Benjamin Reed - Lead PM
  1. 
 
@@ -19,6 +23,7 @@ Team 13 - Distributed AI Model Training
 ### Target Deliverables
 
 ### Key Questions
+
 1. Is it better to use Containers?
 1. What are the best options for host & transferdata? (TBs)
 
