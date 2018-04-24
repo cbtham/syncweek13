@@ -9,7 +9,7 @@ Team 13 - Distributed AI Model Training
 ### Participants
 
  1. Bruno Medina - Lead SE
- 1. Stephanie Marker - SE
+ 1. Stephanie Marker - SE - distributed training with CNTK
  1. Vy Ta - SE
  1. Karol Zak - SE
  1. Ivan Shaporov - SE
