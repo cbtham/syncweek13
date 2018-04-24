@@ -13,7 +13,7 @@ Team 13 - Distributed AI Model Training
  1. Vy Ta - SE - Distributed Training on CNTK
  1. Karol Zak - SE
  1. Ivan Shaporov - TensorFlow (autoencoders/rnn/conv nets)
- 1. Claudia Nadolny - SE
+ 1. Claudia Nadolny - SE, work with Containers, interested in learning more about ML
  1. Olga Liahovich - SE & PM
  1. Cheng Bin Tham - SE
  1. Alyssa Ong - SE, expertise in ML (Keras/TF)
