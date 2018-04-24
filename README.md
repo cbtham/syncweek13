@@ -16,7 +16,7 @@ Team 13 - Distributed AI Model Training
  1. Claudia Nadolny - SE
  1. Olga Liahovich - SE & PM
  1. Cheng Bin Tham - SE
- 1. Alyssa Ong - SE, expertise in ML/bots
+ 1. Alyssa Ong - SE, expertise in ML (Keras/TF)
  1. Benjamin Reed - PM
 
 ### Challenge Statement
