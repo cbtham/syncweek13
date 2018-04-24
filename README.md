@@ -15,7 +15,7 @@ Team 13 - Distributed AI Model Training
  1. Ivan Shaporov - TensorFlow (autoencoders/rnn/conv nets)
  1. Claudia Nadolny - SE, work with Containers, interested in learning more about ML
  1. Olga Liahovich - SE & PM
- 1. Cheng Bin Tham - SE
+ 1. Cheng Bin Tham - SE - (proficient in cognitive services, can help in infra)
  1. Alyssa Ong - SE, expertise in ML (Keras/TF)
  1. Benjamin Reed - "The PM" (best PM ever!)
 
