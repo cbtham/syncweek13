@@ -8,7 +8,7 @@ Team 13 - Distributed AI Model Training
 
 ### Participants
 
- 1. Bruno Medina - Lead SE (Infrastructure, Containers, Linux, Bash, Azure CLI)
+ 1. Bruno Medina - Lead SE (Infrastructure, Containers, Linux, Bash, Azure CLI, Python)
  1. Stephanie Marker - SE - Distributed Training with CNTK
  1. Vy Ta - SE (Infra/Containers/Bash/Scaling) - Distributed Training with CNTK
  1. Karol Zak - SE
@@ -17,7 +17,7 @@ Team 13 - Distributed AI Model Training
  1. Olga Liahovich - SE & PM
  1. Cheng Bin Tham - SE
  1. Alyssa Ong - SE, expertise in ML (Keras/TF)
- 1. Benjamin Reed - PM
+ 1. Benjamin Reed - "The PM" (best PM ever!)
 
 ### Challenge Statement
 
