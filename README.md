@@ -9,7 +9,7 @@ Team 13 - Distributed AI Model Training
 ### Participants
 
  1. Bruno Medina - Lead SE (Infrastructure, Containers, Linux, Bash, Azure CLI)
- 1. Stephanie Marker - SE - Distributed Training with CNTK
+ 1. Stephanie Marker - SE - (some containers and ML, familiar with batchai)
  1. Vy Ta - SE - Distributed Training with CNTK
  1. Karol Zak - SE
  1. Ivan Shaporov - TensorFlow (autoencoders/rnn/conv nets)
